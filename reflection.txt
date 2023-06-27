@@ -1,0 +1,17 @@
+David Wu
+Class 1 Notes
+
+Instructors: 
+Benedict Quartey PhD
+Lucy Gramley
+Jackson Ho
+
+One major assignment every week, hand in Monday
+
+One neuron has inputs, weights, and ont output.
+The output is determined by the value of the weights and inputs
+A neuron is the basic to neural network
+
+y = wx1 + wx2 + wx3 also written as y = wx + b
+
+Machine learning: Change weights based on the result
