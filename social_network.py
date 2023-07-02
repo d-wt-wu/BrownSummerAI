@@ -1,8 +1,9 @@
-# Import necessary classes
+# David Wu
+# Week 1 Project Main
+
 from social_network_classes import SocialNetwork, Person
 import social_network_ui
 
-# Create an instance of the main social network object
 ai_social_network = SocialNetwork()
 
 if __name__ == "__main__":

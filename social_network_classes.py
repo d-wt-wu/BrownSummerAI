@@ -1,4 +1,3 @@
-# Necessary import
 import json
 
 class SocialNetwork:
@@ -59,11 +58,9 @@ class Person:
             print("You got no friends loner")
 
     def send_message(self, ai_social_network, friend_id, message):
-        # Check if the friend_id is in the user's friend list
         if friend_id in self.friendlist:
             for person in ai_social_network.list_of_people:
                 if person.id == friend_id:
-                    # Append the message to the friend's message list
                     person.messages.append({'from': self.id, 'message': message})
                     print("Message sent successfully!")
                     return
