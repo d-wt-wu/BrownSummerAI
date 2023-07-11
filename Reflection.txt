@@ -1,0 +1,7 @@
+This week's assignment was interesting but extremely challenging for me. I have a lot of previous experience in programming, however, it is my first time applying search algorithms in programs. Understanding how the entire thing works was the first hurdle I faced. I returned to the lecture slides to comprehend the concept. After that, I attempted to utilize the pseudocode from the slides for writing the algorithm, but it didn't pan out as expected.
+
+Consequently, I consulted with my peers about the assignment, only to discover that many of them were also grappling with it. So, I decided to explore online resources and study other people's work, which proved highly beneficial when I compared their approaches to mine.
+
+In the depthFirstSearch algorithm, the use of the stack was particularly intriguing as I had never employed it before in my programming journey. Conversely, in the breadthFirstSearch algorithm, the manner in which a queue and a list are utilized to keep track of visited states was relatively new to me as well.
+
+Ultimately, I learned how DFS and BFS algorithms differ in tracing the path from the start state to the goal state, and discerned when to use which algorithm in various scenarios. The insights from this assignment have significantly expanded my knowledge in this area.
